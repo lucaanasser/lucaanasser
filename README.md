@@ -1,9 +1,5 @@
 # 👋 Hey there, I’m Luca Nasser
 
----
-
-## 🧠 About Me
-
 I’m an undergraduate student in **Molecular Sciences** at the **University of São Paulo (USP)** — an interdisciplinary program bridging physics, chemistry, biology, mathematics, and computer science.  
 It’s the kind of course where you might start modeling protein folding and end up simulating Markov chains. That’s exactly what I love about it.  
 
@@ -16,7 +12,8 @@ Like Frieren collecting spells that no one else bothers to learn, I’m drawn to
 
 ---
 
-🧱 Stuff I Made
+## 🧱 Stuff I Made
+
 🧪 UV & Fe Microbial Resistance Analysis: Reproducible Python pipeline with bootstrap uncertainty, log-linear/Weibull models, and automated figure export for microbial stress experiments
 
 📚 Molecular Sciences Library: Open-source digital library built by students, for students. Full-stack system live at bibliotecamoleculares.com
@@ -29,7 +26,6 @@ Like Frieren collecting spells that no one else bothers to learn, I’m drawn to
 - Probabilistic modeling and stochastic processes  
 - Computational statistics and data-driven inference  
 - Quantitative development & computational finance  
-- Open-source software and reproducible research  
 - Learning new tools just for the fun of connecting the dots  
 
 ---
