@@ -18,7 +18,6 @@ Like Frieren collecting spells that no one else bothers to learn, I’m drawn to
 
 📚 Molecular Sciences Library: Open-source digital library built by students, for students. Full-stack system live at bibliotecamoleculares.com
 
-🧭 Other curiosities: Runge–Kutta simulations, Markov chain visualizations — small tools that make abstract ideas tangible
 ---
 
 ## 🔭 Current Interests 
