@@ -7,22 +7,18 @@ Lately, I’ve been shifting from a wet lab work toward **applied computational 
 
 Outside the lab and code, I enjoy **Tolkien, fantasy literature, RPGs, and board games**—always chasing the quiet beauty of seemingly “useless” knowledge.
 
+
 ### 🧱 Stuff I Made
 
 🧪 **UV & Fe Microbial Resistance Analysis**  
-Reproducible Python toolkit for microbial stress experiments, automates everything from CFU/mL computation to log-linear and Weibull modeling, bootstrap uncertainty, and publication-ready figures.  
+Reproducible Python toolkit for microbial stress experiments, automates everything from CFU/mL computation to log-linear, bootstrap uncertainty and publication-ready figures.  
 Originally developed to analyze my own experimental data at the **Astrobiology Laboratory (IQ-USP)**, it was designed to be reusable for future assays, whether in our lab or by other researchers.
 
 📚 **Molecular Sciences Library**  
-An open-source digital library **by students, for students** of the Molecular Sciences program.  
-Initially created by me and a classmate, we not only built the code but also manually re-labeled and cataloged the entire physical collection into a structured database.  
-Built with React, Express, SQLite, and Docker, the system manages real-world book loans, virtual shelves, notifications, and contribution badges, all live at [**bibliotecamoleculares.com**](https://bibliotecamoleculares.com).  
-The platform was designed so future students can maintain and expand it, keeping the library a living, evolving project.
+Open-source digital library **by students, for students**. Built with React, Express, SQLite, and Docker, managing book loans, virtual shelves, and notifications, live at [**bibliotecamoleculares.com**](https://bibliotecamoleculares.com). My classmate and I not only coded the platform but manually re-labeled and cataloged the entire physical collection.
 
 🧬 **Fitness Landscape Simulator**  
-Java + Python project modeling two-locus fitness landscapes under epistasis.
-Produces and visualizes fitness surfaces, evolutionary trajectories, and χ² analyses.
-Developed for a Computational Science course, it explores how simple simulations can capture the dynamics behind evolutionary interactions.
+Java + Python project modeling two-locus fitness landscapes under epistasis. Visualizes fitness surfaces, evolutionary trajectories, and χ² analyses. Developed for a Computational Science course.
 
 
 ### 🔭 Current Interests 
