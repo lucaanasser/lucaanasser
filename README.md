@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Luca Nasser
+## 👋 Hey there, I’m Luca Nasser
 
 I’m an undergraduate student in **Molecular Sciences** at the **University of São Paulo (USP)**, a program where physics, chemistry, biology, math, and computation constantly overlap. It’s the kind of place where one day you’re modeling protein folding and the next you’re simulating a Markov chain, and that mix is exactly what I love.  
 
@@ -7,9 +7,7 @@ Lately, I’ve been shifting from a wet lab work toward **applied computational 
 
 Outside the lab and code, I enjoy **Tolkien, fantasy literature, RPGs, and board games**—always chasing the quiet beauty of seemingly “useless” knowledge.
 
----
-
-## 🧱 Stuff I Made
+### 🧱 Stuff I Made
 
 🧪 **UV & Fe Microbial Resistance Analysis**  
 Reproducible Python toolkit for microbial stress experiments, automates everything from CFU/mL computation to log-linear and Weibull modeling, bootstrap uncertainty, and publication-ready figures.  
@@ -26,23 +24,20 @@ Java + Python project modeling two-locus fitness landscapes under epistasis.
 Produces and visualizes fitness surfaces, evolutionary trajectories, and χ² analyses.
 Developed for a Computational Science course, it explores how simple simulations can capture the dynamics behind evolutionary interactions.
 
----
 
-
-## 🔭 Current Interests 
+### 🔭 Current Interests 
 
 - Probabilistic modeling and stochastic processes  
 - Computational statistics and data-driven inference  
 - Quantitative modeling & computational finance  
 - Learning new tools just for the fun of connecting the dots  
 
----
 
-## ⚙️ Skills & Tools
+### ⚙️ Skills & Tools
 
-**Languages:** Java, C, Python (beginner → intermediate)  
-**Version Control:** Git / GitHub (comfortable with fundamentals)  
-**Infrastructure:** Docker, Nginx (introductory experience)  
-**Libraries & Frameworks:** NumPy, pandas, matplotlib, scikit-learn, Express.js 
-**Databases:** SQLite (familiar with basic queries and schema design)
-**Soft Skills:** Interdisciplinary reasoning, research design, curiosity-driven learning  
+- **Languages:** Java, C, Python (beginner → intermediate)  
+- **Version Control:** Git / GitHub (comfortable with fundamentals)  
+- **Infrastructure:** Docker, Nginx (introductory experience)  
+- **Libraries & Frameworks:** NumPy, pandas, matplotlib, scikit-learn, Express.js 
+- **Databases:** SQLite (familiar with basic queries and schema design)
+- **Soft Skills:** Interdisciplinary reasoning, research design, curiosity-driven learning  
