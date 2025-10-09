@@ -2,8 +2,7 @@
 
 I’m an undergraduate student in **Molecular Sciences** at the **University of São Paulo (USP)**, a program where physics, chemistry, biology, math, and computation constantly overlap. It’s the kind of place where one day you’re modeling protein folding and the next you’re simulating a Markov chain, and that mix is exactly what I love.  
 
-I’m deeply fascinated by **computation, statistics, and mathematical modeling**, especially variable-order Markov chains, stochastic processes, and statistical inference.  
-Lately, I’ve been shifting from a wet lab work toward **applied computational science and quantitative modeling**.
+I’m deeply fascinated by **computation, statistics, and mathematical modeling**, especially variable-order Markov chains, stochastic processes, and statistical inference. Lately, I’ve been shifting from a wet lab work toward **applied computational science and quantitative modeling**.
 
 Outside the lab and code, I enjoy **Tolkien, fantasy literature, RPGs, and board games**—always chasing the quiet beauty of seemingly “useless” knowledge.
 
