@@ -15,7 +15,8 @@ Reproducible Python toolkit for microbial stress experiments, automates everythi
 Originally developed to analyze my own experimental data at the **Astrobiology Laboratory (IQ-USP)**, it was designed to be reusable for future assays, whether in our lab or by other researchers.
 
 📚 **Molecular Sciences Library**  
-Open-source digital library **by students, for students**. Built with React, Express, SQLite, and Docker, managing book loans, virtual shelves, and notifications, live at [**bibliotecamoleculares.com**](https://bibliotecamoleculares.com). My classmate and I not only coded the platform but manually re-labeled and cataloged the entire physical collection.
+Open-source digital library **by students, for students**. Built with React, Express, SQLite, and Docker, managing book loans, virtual shelves, and notifications, live at [**bibliotecamoleculares.com**](https://bibliotecamoleculares.com). 
+My classmate and I not only coded the platform but manually re-labeled and cataloged the entire physical collection.
 
 🧬 **Fitness Landscape Simulator**  
 Java + Python project modeling two-locus fitness landscapes under epistasis. Visualizes fitness surfaces, evolutionary trajectories, and χ² analyses. Developed for a Computational Science course.
