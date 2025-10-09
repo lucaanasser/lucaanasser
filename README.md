@@ -10,8 +10,7 @@ Outside the lab and code, I enjoy **Tolkien, fantasy literature, RPGs, and board
 ### 🧱 Stuff I Made
 
 🧪 **UV & Fe Microbial Resistance Analysis**  
-Reproducible Python toolkit for microbial stress experiments, automates everything from CFU/mL computation to log-linear, bootstrap uncertainty and publication-ready figures.  
-Originally developed to analyze my own experimental data at the **Astrobiology Laboratory (IQ-USP)**, it was designed to be reusable for future assays, whether in our lab or by other researchers.
+Reproducible Python toolkit for microbial stress experiments, automates everything from CFU/mL computation to log-linear, bootstrap uncertainty and publication-ready figures. Originally developed to analyze my own experimental data at the **Astrobiology Laboratory (IQ-USP)**, it was designed to be reusable for future assays, whether in our lab or by other researchers.
 
 📚 **Molecular Sciences Library**  
 Open-source digital library **by students, for students**. Built with React, Express, SQLite, and Docker, managing book loans, virtual shelves, and notifications, live at [**bibliotecamoleculares.com**](https://bibliotecamoleculares.com). 
